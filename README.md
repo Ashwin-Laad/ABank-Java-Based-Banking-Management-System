@@ -2,7 +2,7 @@
 
 Here is a Java-based Financial Transaction Management system designed to simulate core banking operations with a secure, user-friendly interface. It allows users to perform banking transactions, manage accounts, and verify identity via email OTP, providing a comprehensive understanding of banking workflows and transaction management.
 
-Features
+# Features
 
 User Registration & Multi-Step Sign-Up: Collects personal and account details, including PAN, Aadhaar, income, and account type.
 
@@ -26,7 +26,7 @@ GUI-Based Interface: Built with Java Swing for a visually intuitive experience.
 
 Secure Database Integration: MySQL database handles user data, account details, and transaction history.
 
-Technologies Used
+# Technologies Used
 
 Java – Core language for logic and GUI (Swing).
 
@@ -38,7 +38,7 @@ HTTP/Java Mail API – OTP email verification (via SendGrid).
 
 OOP Principles – Modular and maintainable code structure.
 
-Project Structure
+# Project Structure
 Bank-System/
 │
 ├── BankFeatures/
